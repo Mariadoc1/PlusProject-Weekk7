@@ -61,12 +61,12 @@ main {
   font-weight: 500;
 }
 
-.humidity {
+#humidity {
   color: #ed5082;
   font-weight: 700;
 }
 
-.windy {
+#windy {
   color: #ed5082;
   font-weight: 700;
 }
